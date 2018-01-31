@@ -1,0 +1,5 @@
+{
+    "postsNumber": 15,
+    "updateIntervalSeconds": 10,
+    "feedURL": "http://api.massrelevance.com/MassRelDemo/kindle.json"
+}
